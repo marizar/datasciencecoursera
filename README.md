@@ -1,2 +1,4 @@
 # datasciencecoursera
-Data Science Repository
+Data Science Repository 
+
+Created by Rutendo B. Mariza
